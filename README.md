@@ -4,7 +4,7 @@
 
 ## Steps
 - Build
-```bash
+```zsh
 $cargo build
 ```
 - Run
@@ -18,5 +18,5 @@ $./target/debug/combiner ./images/pro.png ./images/fcc_glyph.png ./output.png
 |         |            |   |
 | ------------- |:-------------:| -----:|
 | Image 1 (<a>./images/pro.png</a>) | Image 2 (<a>./images/fcc_glyph.png</a>)| Output (<a>./output.png</a>)|
-|<img src="images/pro.png" />|<img src="images/fcc_glyph.png" />|<img src="output.png" />|
+|<img src="images/pro.png" />|<img src="images/fcc_glyph.png" />|<img src="example.png" />|
 |||
